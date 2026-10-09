@@ -1,0 +1,2 @@
+# premium-hurdy-001-hurdy-gurdy-wheel-truing-guide
+Your hurdy gurdy wheel is producing uneven sound and dead spots, but you don't have a systematic way to diagnose and fix it. The Hurdy Gurdy Wheel Truing Guide turns wheel maintenance from guesswork into a repeatable, step-by-step process you can follow in Notion.  This is the only Notion template designed specifically for hurdy gurdy wheel truing—
